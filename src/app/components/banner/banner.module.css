@@ -1,0 +1,44 @@
+.Banner{
+    width: 99.7%;
+    height:100vh;
+    /* border:2px solid red; */
+    background-image: url("../../../../public/breno-machado-in9-n0JwgZ0-unsplash\ \(1\).jpg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro{
+    width:49%;
+    height:60%;
+    /* border:1px solid lime; */
+    /* margin:40px 0px 0px 0px; */
+    border-radius: 30px;
+    backdrop-filter: blur(2.2px);
+}
+
+.me{
+    color:lime;
+    font-size: 40px;
+    margin:15% 0px 0px 0px;
+    text-align: center;
+}
+
+.what{
+    text-align: center; 
+    color:white;
+    font-size: 17px;;
+}
+
+.socials{
+    width:49%;
+    height:10%;
+    /* border:1px solid red; */
+    margin:40% 0px 0px 0px;
+    display: flex;
+    align-items: center;
+    padding:0px 0px 0px 105px;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
